@@ -32,10 +32,3 @@ Each row represents an open order in **BITSTAMP:BTCUSD** (Bitcoin to USD).
 
 ---
 
-### **Summary**
-- You have **two active orders**: a **Stop Loss at $97,725** and a **Take Profit at $92,433**.
-- Your **account is in a paper trading environment**, meaning no real money is involved.
-- Your **current open trade has an unrealized profit of $40.18**, but you have a **realized loss of $9,936.33** from past trades.
-- Your available funds allow for more trades, and **no margin is currently tied to orders**.
-
-Let me know if you need any adjustments or clarifications! 🚀
